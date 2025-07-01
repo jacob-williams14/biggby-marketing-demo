@@ -1,0 +1,167 @@
+{
+	"home_header": {
+		"type": "text",
+		"text": "FIRST_NAME, winter warmth awaits!"
+	},
+	"home_welcome_message": {
+		"type": "text",
+		"text": "Beat the winter chill with our hottest drinks and coolest rewards."
+	},
+	"home_header_guest": {
+		"type": "text",
+		"text": "Warm up with BIGGBY!"
+	},
+	"home_welcome_message_guest": {
+		"type": "text",
+		"text": "Join our FREE rewards program this winter and sip your way to BIGG rewards and exclusive cold-weather offers. The perfect way to stay warm!"
+	},
+	"home_welcome_image_guest": {
+		"type": "item",
+		"text": null,
+		"image": "https://cdn.bfldr.com/R5NVIZHK/at/rjt96m669rfnj7bmwmkqs8mg/2022_0811_BxH_2124.jpg",
+		"icon": null,
+		"altText": "Welcome to BIGGBY this winter season"
+	},
+	"home_carousel_header": {
+		"type": "text",
+		"text": "Winter Warmers"
+	},
+	"home_menu_header": {
+		"type": "text",
+		"text": "Winter Menu"
+	},
+	"home_carousel": {
+		"type": "products",
+		"text": null,
+		"items": [
+			{
+				"id": null,
+				"title": "Rich Hot Chocolate - Perfect Winter Comfort",
+				"image": "https://cdn.bfldr.com/R5NVIZHK/at/m6ppkccxcqcwncmkf77pqcq7/biggby_farm_direct_swirl_composite_VC_2024_v2.jpg?auto=webp&format=png&width=600",
+				"icon": null,
+				"altText": null,
+				"text": null
+			},
+			{
+				"id": null,
+				"title": "Steaming Lattes - Beat the Cold",
+				"image": "https://cdn.bfldr.com/R5NVIZHK/at/2wswffjbqfqjff9pw6phq/Matcha-Latte-Blast_CMYK_300dpi.jpg?auto=webp&format=png&width=600",
+				"icon": null,
+				"altText": null,
+				"text": null
+			},
+			{
+				"id": null,
+				"title": "Hearty Winter Treats - Cozy Comfort",
+				"image": "https://cdn.bfldr.com/R5NVIZHK/at/9nf63t4fjb7kv9sps8h8gwt/2022_1117_BxH_0382.jpg?auto=webp&format=png&width=600",
+				"icon": null,
+				"altText": null,
+				"text": null
+			}
+		]
+	},
+	"home_menu_carousel": {
+		"type": "product-groups",
+		"text": "Winter Menu",
+		"items": [
+			{
+				"menuCategoryId": 27,
+				"title": "Frozen Winter Treats",
+				"image": "https://assets.biggby.com/icons/FROZEN.svg",
+				"icon": null,
+				"altText": null,
+				"text": null
+			},
+			{
+				"menuCategoryId": 9,
+				"title": "Hot Winter Warmers",
+				"image": "https://assets.biggby.com/icons/HOT.svg",
+				"icon": null,
+				"altText": null,
+				"text": null
+			},
+			{
+				"menuCategoryId": 20,
+				"title": "Iced Winter Specials",
+				"image": "https://assets.biggby.com/icons/ICED.svg",
+				"icon": null,
+				"altText": null,
+				"text": null
+			},
+			{
+				"menuCategoryId": 36,
+				"title": "Winter Energy Boost",
+				"image": "https://assets.biggby.com/icons/ENERGY.svg",
+				"icon": null,
+				"altText": null,
+				"text": null
+			},
+			{
+				"menuCategoryId": 37,
+				"title": "Winter Comfort Food",
+				"image": "https://assets.biggby.com/icons/FOOD.svg",
+				"icon": null,
+				"altText": null,
+				"text": null
+			},
+			{
+				"menuCategoryId": null,
+				"title": "Kids Winter Favorites",
+				"image": "https://assets.biggby.com/icons/KIDS.svg",
+				"icon": null,
+				"altText": null,
+				"text": null
+			}
+		]
+	},
+	"rewards_header": {
+		"type": "text",
+		"text": "FIRST_NAME, you're snow amazing!"
+	},
+	"rewards_welcome_message": {
+		"type": "text",
+		"text": "Winter may be cold, but your rewards are heating up!"
+	},
+	"rewards_header_guest": {
+		"type": "text",
+		"text": "Snow joke - rewards await!"
+	},
+	"rewards_welcome_message_guest": {
+		"type": "text",
+		"text": "This winter, join our FREE rewards program and start earning points for FREE food, drinks, and exclusive cold-weather offers. Don't let this deal snow you by!"
+	},
+	"rewards_claimed_rewards_header": {
+		"type": "text",
+		"text": "Sip, scan, save this winter!"
+	},
+	"rewards_list_guest": {
+		"type": "list",
+		"text": null,
+		"items": [
+			{
+				"type": "item",
+				"title": "Birthday freebie - Even in the cold!",
+				"description": "Receive a free birthday drink (anything up to 24oz) on us! Can't make it to a BIGGBY on your birthday? No problem. Your reward is available for 30 days - perfect for winter celebrations!",
+				"image": "https://cdn.bfldr.com/R5NVIZHK/at/295j7m6h2wtnkxg279rnxpq/30thbirthday_Instagram_L421.jpg?auto=webp&width=200&height=200",
+				"icon": null,
+				"altText": "Birthday Drink"
+			},
+			{
+				"type": "item",
+				"title": "Weekly winter e-wards",
+				"description": "Each week you will receive special winter offer(s) to your inbox for discounted hot beverages, comfort food, and even cozy merchandise to keep you warm!",
+				"image": "https://cdn.bfldr.com/R5NVIZHK/at/t6762wmf8m24vvrjhv642xwg/2021_0729_BxH_0508_2.jpg?auto=webp&width=300&height=239",
+				"icon": null,
+				"altText": "Weekly Winter Rewards"
+			},
+			{
+				"type": "item",
+				"title": "Stay in the winter loop",
+				"description": "With a BIGGBY rewards membership, you'll be the first to know about new winter menu items, hot drink specials, and limited-time cold-weather offerings to keep you cozy!",
+				"image": "https://cdn.bfldr.com/R5NVIZHK/at/tcjr8hjfqxh4mrbvg7pbbj/2021_0511_BxH_0110.jpg?auto=webp&width=200&height=300",
+				"icon": null,
+				"altText": "Stay Updated on Winter Specials"
+			}
+		]
+	}
+}
